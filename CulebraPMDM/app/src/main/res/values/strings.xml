@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CulebraPMDM</string>
+    <string name="jugar">JUGAR</string>
+    <string name="salir">SALIR</string>
+    <string name="normal">NORMAL</string>
+    <string name="dificil">DIFICIL</string>
+    <string name="imposible">IMPOSIBLE</string>
+</resources>
